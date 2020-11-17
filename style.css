@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+a:link{
+    color: darkgray;
+}
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+a:visited{
+
+    color: dimgray;
+
+}
+
+h2{ 
+    color:burlywood;
+    margin-left: 650px;
+}
+ 
+p{
+    color: coral;
+}
